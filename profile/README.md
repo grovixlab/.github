@@ -21,8 +21,8 @@ We strongly believe in the power of open-source collaboration. This repository s
 
 **Stay Connected:**
 
-* [Website](**Fill in website address if Grovix Lab has one**): 
-* [LinkedIn](**Fill in LinkedIn profile URL**): 
-* [Twitter](**Fill in Twitter profile URL (if applicable)**): 
+* [Website](https://www.grovixlab.com/): 
+* [LinkedIn](https://linkedin.com/grovixlab): 
+* [Twitter(X)](https://x.com/grovixlab): 
 
 We're excited to have you here! Let's build something amazing together.
